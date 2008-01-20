@@ -1,0 +1,9 @@
+ProblemSolving ::
+[
+Program : addition of two numbers.
+Problem : To enter there "enter" buttons instead of two with values to get result.
+Solution : Created and format of a "\n" between two variables of input.
+Generalise : create and allocate separate spaces for different input variables 
+             and see to it that input closes exactlt after the necessary input 
+             is made.
+]
