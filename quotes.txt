@@ -1,0 +1,2 @@
+1. When you climb a hill and got stuck completely  do not try and fall down
+   but climb down.
