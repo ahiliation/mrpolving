@@ -6,7 +6,7 @@ GPL --> http://www.gnu.org/copyleft/gpl.html */
 main ()
 {
 int a,c,i;
-printf("\n Feed your number \n");
+printf("\n Feed your number :: ");
 scanf("%d",&a);
 for (i=2;i<a;i++)
 {
