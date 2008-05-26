@@ -8,6 +8,11 @@ main ()
 int a,c,i;
 printf("\n Feed your number :: ");
 scanf("%d",&a);
+if ( a==2)
+{
+printf(" \n %d is not a prime number \n",a);
+exit(0);
+}
 for (i=2;i<a;i++)
 {
 c = a%i ;
@@ -16,10 +21,8 @@ if ( c == 0 )
 printf (" \n %d  is  not a  prime number \n ",a);
 exit (0);
 }
-else
-{
+}
 printf(" \n %d is a prime number \n ",a);
-exit(0);
 }
-}
-}
+
+
